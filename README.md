@@ -1,4 +1,4 @@
-<center><img alt="banner" scr="banner_2.PNG"></center>
+![MasterHead](https://raw.githubusercontent.com/InfinityTechnologys/InfinityTechnologys/refs/heads/main/banner_2.PNG)
 
 <h1 align="center">Tekofest InfinityTech</h1>
 <h3 align="center">Biz bir Teknofest takımıyız!</h3>
